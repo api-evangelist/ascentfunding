@@ -1,0 +1,81 @@
+generated: '2026-09-26'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 5
+  own: 5
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - identity
+  - other
+  - partner
+  - website
+hosts:
+- host: api.ascentfunding.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: ascentfunding.com
+  role: api
+  relation: own
+- host: bootcamp.ascentfunding.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: ascentfunding.com
+  role: other
+  relation: own
+- host: college.ascentfunding.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - Login
+  serves: []
+  registrable_domain: ascentfunding.com
+  role: identity
+  relation: own
+- host: partners.ascentfunding.com
+  found_by:
+  - probed
+  - site-links
+  - namespace-probe
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  title: Private Student Loans for College Students | Ascent Funding
+  status: 200
+  registrable_domain: ascentfunding.com
+  role: partner
+  relation: own
+- host: www.ascentfunding.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - Newsroom
+  - Blog
+  - Website
+  serves:
+  - cdn
+  vendor: cloudflare
+  registrable_domain: ascentfunding.com
+  role: website
+  relation: own

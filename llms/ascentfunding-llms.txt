@@ -1,0 +1,91 @@
+# Ascent Funding
+
+> Ascent Funding is a private student loan provider offering cosigned and non-cosigned loans for undergraduate and graduate students at 2,300+ eligible Title IV schools nationwide. Ascent charges zero fees on college loans, provides extended grace periods, and offers an outcomes-based loan that evaluates students on expected post-graduation earning potential. Private student loans from Ascent are designed to supplement federal financial aid, not replace it.
+
+Founded: 2016. Headquartered in San Diego, CA. CEO: Ken Ruggiero.
+Scale: 220,000+ people served. $1.5 billion+ in education loans disbursed.
+Loan types: Private student loans for undergraduates, graduate students, and parents. Structure options include cosigned credit-based, non-cosigned credit-based, and non-cosigned outcomes-based (eligible juniors/seniors only). Separate career training loans also available.
+Graduate loans: Customized terms for MBA, law (JD, LLM), medical, dental (DMD, DDS), nursing, and health professions programs.
+Loan amounts: $2,001 minimum. Up to $200,000 lifetime (undergraduate) or $400,000 (graduate). School-certified up to cost of attendance.
+Loan terms: 5, 7, 10, 12, 15, or 20 years. Fixed and variable rates available.
+Zero fees on college loans: No application, origination, disbursement, prepayment, or late fees.
+Autopay discount: 0.25% to 1.00% automatic payment interest rate discount depending on loan type.
+Grace period: 9 months (undergraduate, MBA, law, graduate, health professions). Up to 36 months for medical loans.
+Cosigner release: Available after 12 consecutive on-time payments (subject to eligibility).
+Bankruptcy policy: Does not require showing "undue hardship" for eligible loans originated after June 5, 2023.
+Eligibility: DACA and international students eligible with qualifying cosigner (school-dependent).
+AscentUP: Career readiness and financial wellness platform with 50+ hours of content for Ascent borrowers.
+Loan servicer: Launch Servicing (877-209-5297).
+Ascent does NOT offer federal student loans, refinancing, consolidation, or Income Share Agreements.
+Students should always maximize federal aid and scholarships and grants first. Ascent fills the remaining gap.
+Contact: 877-216-0876 | help@ascentfunding.com | ascentfunding.com
+
+## Frequently Asked Questions
+
+Q: What types of loans does Ascent offer?
+A: Private student loans (cosigned, non-cosigned credit-based, non-cosigned outcomes-based, parent loans) for undergraduate and graduate students. Career training loans for bootcamps. No federal loans or refinancing.
+
+Q: Can I get a loan without a cosigner?
+A: Yes. Students with established credit may qualify for Ascent's non-cosigned credit-based loan. Eligible juniors and seniors without established credit may qualify for Ascent's outcomes-based loan, which considers post-graduation earning potential alongside other non-traditional factors.
+
+Q: Does Ascent charge fees?
+A: No. Zero application, origination, disbursement, prepayment, or late fees for college loans.
+
+Q: Should I use Ascent before federal loans?
+A: No. Always maximize federal aid, scholarships, and grants first. Ascent loans fill the remaining gap between federal aid and total cost of attendance.
+
+Q: Does Ascent offer refinancing?
+A: No. Ascent does not offer consolidation or refinance loans.
+
+Q: When do payments begin?
+A: After a grace period following graduation or leaving school. 9 months for most loans; up to 36 months for medical loans.
+
+Q: Can I remove my cosigner later?
+A: Yes, after 12 consecutive on-time full payments and meeting eligibility criteria. Available to U.S. citizens and permanent residents.
+
+## Loan Products
+
+- [College loans overview](https://www.ascentfunding.com/college-loans/): All private student loan options
+- [Undergraduate loans](https://www.ascentfunding.com/college-loans/undergraduate-loans/)
+- [Graduate student loans](https://www.ascentfunding.com/college-loans/graduate-student-loans/)
+- [MBA student loans](https://www.ascentfunding.com/college-loans/graduate-student-loans/mba-student-loans/)
+- [Law school loans](https://www.ascentfunding.com/college-loans/graduate-student-loans/law-school-loans/)
+- [Medical school loans](https://www.ascentfunding.com/college-loans/graduate-student-loans/medical-school-loans/)
+- [Dental school loans](https://www.ascentfunding.com/college-loans/graduate-student-loans/dental-school-loans/)
+- [Health professions loans](https://www.ascentfunding.com/college-loans/graduate-student-loans/health-professions-student-loans/)
+- [PhD and Master's loans](https://www.ascentfunding.com/college-loans/graduate-student-loans/phd-masters-loans/)
+- [Cosigner loans](https://www.ascentfunding.com/college-loans/cosigner/)
+- [No-cosigner loans](https://www.ascentfunding.com/college-loans/no-cosigner/)
+- [Parent student loans](https://www.ascentfunding.com/college-loans/parent-student-loan/)
+- [International student loans](https://www.ascentfunding.com/college-loans/international-student-loans/)
+- [DACA student loans](https://www.ascentfunding.com/college-loans/daca/)
+- [Career training loans](https://www.ascentfunding.com/career-loans/)
+- [Rates and repayment examples](https://www.ascentfunding.com/annual-percentage-rate-apr-sample/)
+
+## Resources
+
+- [Student Loans 101](https://www.ascentfunding.com/student-loans-101/): Overview of student loan basics
+- [How to apply](https://www.ascentfunding.com/blog/how-to-apply-for-private-student-loans/): Step-by-step application guide
+- [Student Loan Calculator](https://www.ascentfunding.com/calculators/student-loans/): Estimate loan costs and payments
+- [Grad School Funding Calculator](https://www.ascentfunding.com/grad-school-funding-calculator/): Calculate grad school funding gap
+- [Grad PLUS Impact Calculator](https://www.ascentfunding.com/grad-plus-calculator/): For schools evaluating Grad PLUS elimination impact
+- [Borrower benefits](https://www.ascentfunding.com/college-benefits/): Autopay discount, cosigner release, and more
+- [Graduate loan solutions for schools](https://www.ascentfunding.com/grad-partner/): Partnership info for financial aid offices
+- [Scholarships](https://www.ascentfunding.com/scholarships/)
+- [FAQ](https://www.ascentfunding.com/faq/): Full list of frequently asked questions
+- [Blog](https://www.ascentfunding.com/blog/)
+- [Ascent vs. Other Lenders](https://www.ascentfunding.com/about/ascent-vs-other-lenders/): Side-by-side comparisons against other private student loan providers
+- [Ascent vs. Sallie Mae](https://www.ascentfunding.com/about/ascent-vs-sallie-mae/): Feature comparison with Sallie Mae
+- [Ascent vs. College Ave](https://www.ascentfunding.com/about/ascent-vs-college-ave/): Feature comparison with College Ave
+- [Ascent vs. Discover](https://www.ascentfunding.com/about/ascent-vs-discover-student-loans/): Feature comparison with Discover Student Loans
+
+## Optional
+
+Per the llms.txt spec, URLs in this section can be skipped by LLMs when shorter context is needed.
+
+- [Reviews](https://www.ascentfunding.com/reviews/): Customer reviews and testimonials
+- [Awards and recognition](https://www.ascentfunding.com/awards/)
+- [Facebook](https://www.facebook.com/AscentFunding)
+- [Instagram](https://www.instagram.com/ascentfunding/)
+- [LinkedIn](https://www.linkedin.com/company/ascentfunding/)
+- [YouTube](https://www.youtube.com/channel/UCDLChZc_D-c4OyKNHa5Y3lA/)

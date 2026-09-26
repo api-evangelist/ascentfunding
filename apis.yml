@@ -1,23 +1,74 @@
 aid: ascentfunding
+
 name: Ascentfunding
-description: 'Ascentfunding is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.ascentfunding.com/wp-content/uploads/2026/04/Cover-Impact-Report-2025.webp
+
+description: 'Ascentfunding provides student loan financing for undergraduate, graduate, and professional degree programs in the United States. It offers a range of loan products, including cosigned, non‑cosigned, parent, and career‑training loans, with rates starting as low as 1.94% APR. The company also supplies scholarships, tools, and resources to help borrowers manage college costs and repayment.'
+
 url: https://raw.githubusercontent.com/api-evangelist/ascentfunding/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- Finance
+- Education
+- Loans
+- StudentLoans
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/ascentfunding-llms.txt
+- type: Hosts
+  url: hosts/ascentfunding-hosts.yml
+- type: Vendors
+  url: vendors/ascentfunding-vendors.yml
+- type: TermsOfService
+  url: https://www.ascentfunding.com/terms-conditions/
+- type: PrivacyPolicy
+  url: https://www.ascentfunding.com/privacy-notice/
+- type: Newsroom
+  url: https://www.ascentfunding.com/press/
+- type: Login
+  url: https://college.ascentfunding.com/login
+- type: Blog
+  url: https://www.ascentfunding.com/blog/
+- type: DomainSecurity
+  url: security/ascentfunding-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/ascentfunding
+  url: https://www.ascentfunding.com
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: API spec endpoints returned HTTP 403, no machine‑readable OpenAPI found.
+  evidence:
+    - url: https://api.ascentfunding.com/openapi.json
+      status: 403
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
